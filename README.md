@@ -11,7 +11,7 @@ La campaña utiliza la figura de un hacker como gancho visual para mostrar los r
 
 ##  Enlace al Reel
 El producto principal de esta campaña (el video) está publicado en Instagram. Puedes verlo directamente en el siguiente enlace:
-👉 **[Ver Reel sobre la Ley 149 en Instagram](https://www.instagram.com/reel/DfdbPmvuV7I/?srtk=MXJ6eDV6d3o1eDZlMg==)** 👈
+**[Ver Reel sobre la Ley 149 en Instagram](https://www.instagram.com/reel/DfdbPmvuV7I/?srtk=MXJ6eDV6d3o1eDZlMg==)** 
 
 ##  Nota
 El plan de campaña y el flyer promocional se encuentran subidos como archivos adjuntos en este mismo repositorio.
